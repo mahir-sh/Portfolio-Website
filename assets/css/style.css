@@ -461,10 +461,10 @@ header .navbar ul li a:hover {
 /* skills section starts */
 .skills {
   min-height: 90vh;
-  background: linear-gradient(to bottom, #57059e, #4a00e0);
+  background: linear-gradient(to bottom, #ffffff, #d1cbcb);
 }
 .skills h2 {
-  color: #fff;
+  color: #0c0c0c;
 }
 .skills .heading span {
   color: rgb(255, 230, 0);
@@ -534,7 +534,7 @@ header .navbar ul li a:hover {
 
 /* education section starts */
 .education {
-  background: #e5ecfb;
+  background: #d1cbcb;
   min-height: 80vh;
 }
 .education .qoute {
