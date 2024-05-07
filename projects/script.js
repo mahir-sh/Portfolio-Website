@@ -20,13 +20,13 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Mahir Shahriyar";
-            $("#favicon").attr("href", "https://img.icons8.com/officel/16/administrator-male.png");
+            document.title = "Mahir Shahriyar";
+            $("#favicon").attr("href", "/assets/images/favicon.png");
         }
-        // else {
-        //     document.title = "Come Back To Portfolio";
-        //     $("#favicon").attr("href", "/assets/images/favhand.png");
-        // }
+        else {
+            document.title = "Mahir Shahriyar";
+            $("#favicon").attr("href", "/assets/images/favicon.png");
+        }
     });
 
 
