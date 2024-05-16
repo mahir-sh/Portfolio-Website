@@ -18,6 +18,16 @@
       "view": "https://exchangeshop.netlify.app",
       "code": "https://github.com/mahir-sh/Exchange-Shop-DBMS-Project-"
     }
+  },
+  {
+    "name": "Dice Game",
+    "desc": "The Dice Game is based on a two-player. Both players roll the dice and the player who gets the highest phase value will win the game",
+    "image": "dice",
+    "category": "basicweb",
+    "links": {
+      "view": "https://diceplays.netlify.app",
+      "code": "https://github.com/mahir-sh/dice_game"
+    }
   }
   
 ]
