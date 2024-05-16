@@ -8,6 +8,16 @@
       "view": "https://mahirgmn.netlify.app/",
       "code": "https://github.com/mahir-sh/Guess-My-Number"
     }
+  },
+  {
+    "name": "Exchange Shop",
+    "desc": "eCommerce site! Trade your goods with ease",
+    "image": "gussmynum",
+    "category": "android",
+    "links": {
+      "view": "https://exchangeshop.netlify.app",
+      "code": "https://github.com/mahir-sh/Exchange-Shop-DBMS-Project-"
+    }
   }
   
 ]
