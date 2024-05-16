@@ -1,12 +1,12 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
-    "image": "notystackandroid",
+    "name": "Guess-My-Number",
+    "desc": "Basic number matching game using javascript",
+    "image": "gussmynum",
     "category": "android",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "https://mahirgmn.netlify.app/",
+      "code": "https://github.com/mahir-sh/Guess-My-Number"
     }
   },
   {
