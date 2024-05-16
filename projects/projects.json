@@ -3,7 +3,7 @@
     "name": "Guess-My-Number",
     "desc": "Basic number matching game using javascript",
     "image": "gussmynum",
-    "category": "android",
+    "category": "basicweb",
     "links": {
       "view": "https://mahirgmn.netlify.app/",
       "code": "https://github.com/mahir-sh/Guess-My-Number"
@@ -12,8 +12,8 @@
   {
     "name": "Exchange Shop",
     "desc": "eCommerce site! Trade your goods with ease",
-    "image": "gussmynum",
-    "category": "android",
+    "image": "eshop",
+    "category": "basicweb",
     "links": {
       "view": "https://exchangeshop.netlify.app",
       "code": "https://github.com/mahir-sh/Exchange-Shop-DBMS-Project-"
